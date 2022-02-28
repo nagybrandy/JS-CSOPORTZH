@@ -6,7 +6,7 @@
  1. Az ötöst 24 pont felett lehetett megkapni. Hány darab ötös dolgozat volt? `1 pont`
  2. Mennyi volt a csoport átlaga? `2 pont`
  3. Elégtelen érdemjegyet 10 pont alatt lehetett kapni. Volt-e a dolgozatok között, aki elégtelen érdemjegyet kapott? Ha igen, akkor írasd ki, hogy "Igen, volt.", ha nem, akkor azt, hogy "Nem, nem volt.". `2 pont`
- 4. Az a tanuló, aki megcsinálta és feltöltötte a gyakorlófeladatot, plusz 3 pontot kaphatott a dolgozatnál. Rendeld hozzá minden tanulóhoz a +3 pontot, és írasd ki **Console**-ra az újonnan kapott tömböt.`1 pont`
+ 4. Az a tanuló, aki megcsinálta és feltöltötte a gyakorlófeladatot, plusz 3 pontot kaphatott a dolgozatnál, és ezzel a lehetőséggel mindenki élt. Rendeld hozzá minden tanulóhoz a +3 pontot, és írasd ki **Console**-ra az újonnan kapott tömböt.`1 pont`
 
  ## Táblázat
 
